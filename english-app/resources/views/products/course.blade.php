@@ -21,7 +21,7 @@
     />
 
     <!-- CSS styles -->
-    <link rel="stylesheet" href="./assets/css/styles.css" />
+    <link rel="stylesheet" href="/english-app/resources/css/styles.css" />
 
     <!-- JavaScript Bundle with Popper -->
     <script
@@ -31,7 +31,7 @@
     ></script>
 
     <!-- JS main -->
-    <script src="assets/js/main.js" defer></script>
+    <script src="/english-app/resources/js/main.js" defer></script>
   </head>
   <body>
     <header class="bg-light">
@@ -43,7 +43,7 @@
               href="#"
             >
               <img
-                src="./assets/img/logo.png"
+                src="/english-app/public/asset/logo/logo.png"
                 alt="Logo"
                 width="60"
                 height="60"
@@ -223,7 +223,7 @@
             <div class="co-12 col-lg-4 col-md-6 col-sm-12">
               <div class="card h-100 z-index">
                 <img
-                  src="./assets/img/Courses1.jpg"
+                  src="/english-app/public/asset/image/slide-1.jpeg"
                   class="card-img-top"
                   alt="..."
                 />
@@ -243,7 +243,7 @@
             <div class="co-12 col-lg-4 col-md-6 col-sm-12">
               <div class="card h-100 z-index">
                 <img
-                  src="./assets/img/Courses2.jpg"
+                  src="/english-app/public/asset/image/slide-3.jpeg"
                   class="card-img-top"
                   alt="..."
                 />
@@ -263,7 +263,7 @@
             <div class="co-12 col-lg-4 col-md-6 col-sm-12">
               <div class="card h-100 z-index">
                 <img
-                  src="./assets/img/Courses3.jpg"
+                  src="/english-app/public/asset/image/slide-4.jpeg"
                   class="card-img-top"
                   alt="..."
                 />
@@ -283,7 +283,7 @@
             <div class="co-12 col-lg-4 col-md-6 col-sm-12">
               <div class="card h-100 z-index">
                 <img
-                  src="./assets/img/Courses2.jpg"
+                  src="/english-app/public/asset/image/slide-2.jpeg"
                   class="card-img-top"
                   alt="..."
                 />
@@ -303,7 +303,7 @@
             <div class="co-12 col-lg-4 col-md-6 col-sm-12">
               <div class="card h-100 z-index">
                 <img
-                  src="./assets/img/Courses3.jpg"
+                  src="/english-app/public/asset/image/slide-5.jpeg"
                   class="card-img-top"
                   alt="..."
                 />
@@ -323,7 +323,7 @@
             <div class="co-12 col-lg-4 col-md-6 col-sm-12">
               <div class="card h-100 z-index">
                 <img
-                  src="./assets/img/Courses1.jpg"
+                  src="/english-app/public/asset/image/slide-2.jpeg"
                   class="card-img-top"
                   alt="..."
                 />
@@ -353,7 +353,7 @@
               <div class="d-flex foot logo mb-2">
                 <a class="d-flex align-items-center" href="">
                   <img
-                    src="assets/img/logo.png"
+                    src="/english-app/public/asset/logo/logo.png"
                     alt="Logo"
                     width="60"
                     height="60"
